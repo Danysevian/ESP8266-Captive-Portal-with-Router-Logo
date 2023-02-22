@@ -8,6 +8,8 @@ and satisfaction. I hope that the hard work and dedication that we all put into 
 by everyone who uses it. Seeing the project come to fruition and knowing that it has the potential to positively impact others is a truly rewarding experience.
 Thank you for allowing me to be a part of this journey, and I look forward to seeing where it goes from here.
 
+You can upload the code via .bin( i put the bin files because you can change the SSID name without remake the code) or you can use Arduino Ide.
+
 Changing the SSID: ▶️ 172.0.0.1/ssid◀️
 Clearing the passwords: ▶️ 172.0.0.1/clear◀️
 To see saved passwords: ▶️ 172.0.0.1/pass◀️
